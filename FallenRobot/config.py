@@ -16,7 +16,7 @@ class Config(object):
     # Telegraph link of the image which will be shown at start command.
     START_IMG = "https://i.ibb.co/KDHzCVd/photo-2024-11-10-20-08-07.jpg"
 
-    SUPPORT_CHAT = "land_of_hunters"  of Your Telegram support group chat username where your users will go and bother you
+    SUPPORT_CHAT = "land_of_hunters"  #of Your Telegram support group chat username where your users will go and bother you
 
     TOKEN = "8167388254:AAE5Fbts2L8erz7Sa_t4pqFqziQi9g06DXc"  # Get bot token from @BotFather on Telegram
 
